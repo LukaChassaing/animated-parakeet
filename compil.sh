@@ -1,0 +1,1 @@
+g++ gestion_porte_poules.cpp -o gestion_porte_poules -lwiringPi -lmysqlcppconn
